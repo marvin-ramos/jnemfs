@@ -1,0 +1,24 @@
+// for sweetaler import in laravel 
+http://youtube.com/watch?v=HKDkI_8OL6I
+
+//for multi roles in laravel 8
+https://www.youtube.com/watch?v=sKyMRdzYgXw
+
+//for remember me
+https://www.youtube.com/watch?v=BrdU1Xm3_7c
+
+//for password reset and email verification
+https://codingdriver.com/custom-forgot-reset-password-functionality-in-laravel.html
+https://www.itsolutionstuff.com/post/how-to-send-mail-in-laravel-8-using-mailtrapexample.html
+
+//how to fix Route [verification.resend] not defined laravel 8
+https://www.youtube.com/watch?v=NUYgmdOOqW8
+
+// for live notification
+https://www.youtube.com/watch?v=l44IF9fBNOs&t=12s
+
+//for login design
+https://www.youtube.com/watch?v=t-EMinSz_Tk&t=194s
+
+//for dashboard design
+https://www.youtube.com/watch?v=OJEQaVT45XA
